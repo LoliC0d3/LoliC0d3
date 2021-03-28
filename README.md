@@ -1,6 +1,6 @@
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://tegalsec.org)
+[![Header](https://github.com/LoliC0d3/LoliC0d3/blob/main/rimuru.png "Header")](https://tegalsec.org)
 
 # Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
 
