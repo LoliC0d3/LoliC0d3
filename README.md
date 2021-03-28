@@ -1,13 +1,13 @@
 
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://tegalsec.org)
 
-# Yokoso, Minna-San! <img src="https://i.pinimg.com/originals/7c/d4/cd/7cd4cd76f60162cd596691e26872c274.gif" width="30px">
+# Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org/
+Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
