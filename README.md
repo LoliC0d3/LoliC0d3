@@ -3,7 +3,7 @@
 [![Header](https://github.com/LoliC0d3/LoliC0d3/blob/main/rimuru.png "Header")](https://tegalsec.org)
 
 # Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
-# View
+## View
 <img src="https://count.getloli.com/get/@:LoliC0d3" alt=":LoliC0d3" />
 
 ## &#x270d; Blog & Writing
