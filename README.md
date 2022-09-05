@@ -5,7 +5,7 @@
 # Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
 ## 📊 Analytics
 <img src="https://count.getloli.com/get/@:LoliC0d3" alt=":LoliC0d3" />
-##📱 Contact
+<h2>📱Contact</h2>
 <div align="left">
   <a href="mailto:mitsuhamizaki@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height="25" alt="bio logo"  />
   </a>
 </div>
-## &#x270d; Blog & Writing
+<h2> &#x270d; Blog & Writing</h2>
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.tegalsec.org
 
