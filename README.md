@@ -3,18 +3,43 @@
 [![Header](https://github.com/LoliC0d3/LoliC0d3/blob/main/rimuru.png "Header")](https://tegalsec.org)
 
 # Yokoso, Minna-San! <img src="https://github.com/LoliC0d3/LoliC0d3/blob/main/sa.png" width="30px">
-## View
+## 📊 Analytics
 <img src="https://count.getloli.com/get/@:LoliC0d3" alt=":LoliC0d3" />
+##📱 Contact
+<div align="left">
+  <a href="mailto:mitsuhamizaki@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
+    <a href="https://line.me/ti/p/TPUSUZJx-F" target="_blank">
+    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
+     <a href="https://www.facebook.com/LoliC0d3/" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" height="25" alt="facebook logo"  />
+  </a>
+   <a href="https://t.me/senpaisec" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo"  />
+  </a>
 
+  <a href="https://aliakbar.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" height="25" alt="bio logo"  />
+  </a>
+</div>
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
+Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.tegalsec.org
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
 
 
 ## &#x1f4c8; GitHub Stats
@@ -26,8 +51,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoliC0d3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="LoliC0d3 GitHub Stats" />
 </a>
 
-<a href="https://github.com/LoliC0d3/LoliDocker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LoliC0d3&repo=LoliDocker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/tegal1337/leakix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tegal1337&repo=Leakix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -38,6 +63,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/tegal1337/Cilocks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tegal1337&repo=Cilocks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+
+<a href="https://github.com/tegal1337/Akuma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tegal1337&repo=Akuma&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
